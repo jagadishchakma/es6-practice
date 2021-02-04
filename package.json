@@ -1,0 +1,21 @@
+{
+  "name": "es6-practice",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "arrow-function.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jagadishchakma/es6-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jagadishchakma/es6-practice/issues"
+  },
+  "homepage": "https://github.com/jagadishchakma/es6-practice#readme"
+}
